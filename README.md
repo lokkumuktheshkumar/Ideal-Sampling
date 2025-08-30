@@ -41,6 +41,7 @@ plt.ylabel('Amplitude')
 plt.grid(True)
 plt.legend()
 plt.show()
+```
 Natural sampling:
 ```
 import numpy as np
@@ -88,7 +89,7 @@ plt.legend()
 plt.grid(True)
 plt.tight_layout()
 plt.show()
-
+```
 Flat-top sampling:
 ```
 import numpy as np
