@@ -154,7 +154,9 @@ plt.legend()
 plt.grid(True)
 plt.tight_layout()
 plt.show()
+
 # Output Waveform
+
 Impulse Sampling:
 ```
 <img width="1061" height="1199" alt="Screenshot 2025-08-30 161643" src="https://github.com/user-attachments/assets/3ed96e18-1981-47dd-9b01-8876d22add3d" />
