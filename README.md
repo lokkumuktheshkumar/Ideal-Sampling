@@ -155,13 +155,18 @@ plt.grid(True)
 plt.tight_layout()
 plt.show()
 # Output Waveform
+Impulse Sampling:
 ```
 <img width="1061" height="1199" alt="Screenshot 2025-08-30 161643" src="https://github.com/user-attachments/assets/3ed96e18-1981-47dd-9b01-8876d22add3d" />
 ```
+Natural Sampling:
+```
 <img width="1421" height="1006" alt="Screenshot 2025-08-30 161703" src="https://github.com/user-attachments/assets/b0eb81c1-12fc-4d58-b784-21c148e4d9ed" />
 ```
-<img width="1417" height="995" alt="Screenshot 2025-08-30 161725" src="https://github.com/user-attachments/assets/6bdca3e3-897a-4b46-970c-a481dfda79e7" />
+Flap-top Sampling:
 ```
+<img width="1417" height="995" alt="Screenshot 2025-08-30 161725" src="https://github.com/user-attachments/assets/6bdca3e3-897a-4b46-970c-a481dfda79e7" />
+
 
 
 # Results
