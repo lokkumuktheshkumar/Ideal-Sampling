@@ -4,6 +4,7 @@ Write a simple Python program for the construction and reconstruction of ideal, 
 # Tools required
 # Program
 Ideal Sampling:
+```
 import numpy as np
 import matplotlib.pyplot as plt
 from scipy.signal import resample
@@ -40,7 +41,7 @@ plt.ylabel('Amplitude')
 plt.grid(True)
 plt.legend()
 plt.show()
-
+```
 Natural sampling:
 import numpy as np
 import matplotlib.pyplot as plt
